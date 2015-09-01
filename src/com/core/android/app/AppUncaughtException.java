@@ -11,11 +11,10 @@ package com.core.android.app;
 
 import java.lang.Thread.UncaughtExceptionHandler;
 
-import com.lidroid.xutils.util.LogUtils;
-
 import android.content.Context;
-import android.util.Config;
 import android.util.Log;
+
+import com.lidroid.xutils.util.LogUtils;
 
 /**
  * ClassName:AppUncaughtException <br/>
