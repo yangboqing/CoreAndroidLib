@@ -70,8 +70,9 @@ public class AndroidAuthenticator implements Authenticator {
      * Returns the Account being used by this authenticator.
      */
     public Account getAccount() {
-        return mAccount;
+        return mAccount;  
     }
+    
 
     @Override
     public String getAuthToken() throws AuthFailureError {
